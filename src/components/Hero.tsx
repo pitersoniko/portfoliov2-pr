@@ -159,7 +159,8 @@ export default function Hero() {
               View Projects
             </a>
             <a
-              href="#contact"
+              href="/Pedro-Rodrigues-CV.pdf"
+              download="Pedro-Rodrigues-CV.pdf"
               className="btn-outline"
             >
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
