@@ -1,0 +1,11 @@
+{
+  "description": "Showcases a Computer Engineering student's skills, projects, and certifications in a sleek, dark-mode portfolio tailored for recruiters and tech professionals.",
+  "robots": {
+    "index": true
+  },
+  "title": "Portfolio",
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
