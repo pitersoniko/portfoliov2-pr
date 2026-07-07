@@ -9,12 +9,12 @@ type Skill = {
 const skills: Skill[] = [
   { name: 'Kotlin', category: 'Android Dev', level: 90, color: '#a97bff', icon: 'K' },
   { name: 'Python', category: 'ML / Scripting', level: 85, color: '#4ec9b0', icon: 'Py' },
-  { name: 'React Native', category: 'Cross-platform', level: 78, color: '#61dafb', icon: 'RN' },
+  { name: 'React', category: 'Cross-platform', level: 78, color: '#61dafb', icon: 'R' },
   { name: 'Flutter', category: 'Cross-platform', level: 72, color: '#54c5f8', icon: 'Fl' },
-  { name: 'Three.js / WebGL', category: '3D Graphics', level: 70, color: '#00d9a6', icon: '3D' },
+  { name: '.NET', category: 'Software Development', level: 80, color: '#00d9a6', icon: 'C#' },
   { name: 'Android SDK', category: 'Mobile', level: 88, color: '#a97bff', icon: 'AS' },
-  { name: 'YOLOv8 / RT-DETR', category: 'Computer Vision', level: 75, color: '#f97316', icon: 'CV' },
-  { name: 'Jetpack Compose', category: 'UI Framework', level: 80, color: '#4ec9b0', icon: 'JC' },
+  { name: 'SQL', category: 'Database', level: 80, color: '#f97316', icon: 'CV' },
+  { name: 'C++', category: 'Software Development', level: 80, color: '#4ec9b0', icon: 'C++' },
 ]
 
 export default function TechStack() {

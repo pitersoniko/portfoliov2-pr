@@ -45,7 +45,7 @@ export default function Nav() {
             }}
           >
             <span style={{ color: 'var(--primary)' }}>{'<'}</span>
-            {'DF'}
+            {'PEDRO RODRIGUES'}
             <span style={{ color: 'var(--primary)' }}>{' />'}</span>
           </a>
 

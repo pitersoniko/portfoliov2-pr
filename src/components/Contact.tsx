@@ -75,7 +75,7 @@ export default function Contact() {
           </p>
 
           <a
-            href="mailto:hello@example.com"
+            href="mailto:pedroantonio2@live.com.pt"
             className="btn-primary"
             style={{
               fontSize: "0.9rem",

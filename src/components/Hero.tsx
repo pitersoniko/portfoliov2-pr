@@ -130,7 +130,7 @@ export default function Hero() {
             </span>
             <br />
             <span style={{ fontWeight: 300, fontSize: '0.7em', color: 'rgba(238,242,255,0.6)', letterSpacing: 0 }}>
-              Former INESCTEC External Student, Certified at Kotlin development by X-Kab
+              Former INESCTEC External Student, Certified at Kotlin development by Media XLAB
             </span>
           </h1>
 
