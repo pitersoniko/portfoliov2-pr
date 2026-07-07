@@ -9,7 +9,7 @@ type Project = {
   tags: string[];
   accent: string;
   image: string;
-  status: "Released" | "In Development" | "Research";
+  status: "Released" | "In Development" | "Research" | "Unreleased" | "Finished";
   links: { label: string; href: string }[];
   featured?: boolean;
 };
@@ -35,28 +35,27 @@ const projects: Project[] = [
       "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=720&h=420&fit=crop&auto=format",
     status: "Research",
     featured: true,
-    links: [{ label: "GitHub", href: "#" }],
+    links: [{ label: "GitHub", href: "https://github.com/pitersoniko/ProjetoFinalLEI" }],
   },
   {
-    id: "doomlal-game",
-    title: "Doom Look-alike",
-    subtitle: "3D Co-op Stealth Experience",
+    id: "tuvr",
+    title: "TUVR",
+    subtitle: "Inteligent Urban Mobility",
     description:
-      "Multiplayer co-operative heist game built with real-time 3D rendering and spatial audio. Players coordinate across distinct roles — hacker, infiltrator, lookout — to execute precision operations.",
+      "A modern mobile application developed to revolutionize how users interact with public transit. This app operates as a digital wallet and native ticket validation system, effectively replacing traditional physical transit passes.",
     problem:
-      "Designed a role-differentiated co-op loop around information asymmetry: each player has a unique HUD and capability set, requiring genuine coordination rather than redundant play.",
+      "Engineered to solve critical public transit inefficiencies, the application streamlines the daily commute by eradicating ticketing queues and the reliance on physical currency, offering users a seamless, fully digital payment flow.",
     tags: [
-      "Three.js",
-      "WebGL",
-      "GLSL",
-      "Node.js",
-      "WebSockets",
+      "React Native",
+      "React Navigation",
+      "SupaBase",
+      "Node.js"
     ],
     accent: "#00d9a6",
     image:
       "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=720&h=420&fit=crop&auto=format",
     status: "In Development",
-    links: [{ label: "Devlog", href: "#" }],
+    links: [{ label: "GitHub", href: "https://github.com/pitersoniko/TUVR_App" }],
   },
   {
     id: "android-inesc",
@@ -76,8 +75,8 @@ const projects: Project[] = [
     accent: "#a97bff",
     image:
       "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb?w=720&h=420&fit=crop&auto=format",
-    status: "Released",
-    links: [],
+    status: "Finished",
+    links: [{ label: "INESCTEC", href: "https://www.inesctec.pt/pt/pessoas/pedro-antonio-rodrigues" }],
   },
 ];
 
