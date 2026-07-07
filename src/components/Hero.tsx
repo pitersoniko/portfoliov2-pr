@@ -130,7 +130,7 @@ export default function Hero() {
             </span>
             <br />
             <span style={{ fontWeight: 300, fontSize: '0.7em', color: 'rgba(238,242,255,0.6)', letterSpacing: 0 }}>
-              at INESC TEC
+              Former INESCTEC External Student, Certified at Kotlin development by X-Kab
             </span>
           </h1>
 
@@ -182,7 +182,7 @@ export default function Hero() {
             }}
           >
             {[
-              { value: '2+', label: 'Years at INESC TEC' },
+              { value: '6+', label: 'Months at INESC TEC' },
               { value: '5+', label: 'Tech Stacks Mastered' },
               { value: '3', label: 'Major Projects' },
             ].map(stat => (

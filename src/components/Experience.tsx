@@ -55,17 +55,17 @@ export default function Experience() {
                 </svg>
               </div>
               <div>
-                <div style={{ fontFamily: "'Exo 2'", fontWeight: 700, fontSize: '1.05rem' }}>Programmer</div>
+                <div style={{ fontFamily: "'Exo 2'", fontWeight: 700, fontSize: '1.05rem' }}>External Student - Android Development</div>
                 <div style={{ fontFamily: "'JetBrains Mono'", fontSize: '0.7rem', color: 'var(--primary)', letterSpacing: '0.08em' }}>INESC TEC — Porto, Portugal</div>
               </div>
-              <div style={{ marginLeft: 'auto', fontFamily: "'JetBrains Mono'", fontSize: '0.65rem', color: 'var(--muted-foreground)', whiteSpace: 'nowrap' }}>2023 — Present</div>
+              <div style={{ marginLeft: 'auto', fontFamily: "'JetBrains Mono'", fontSize: '0.65rem', color: 'var(--muted-foreground)', whiteSpace: 'nowrap' }}> July 2025 — July 2026</div>
             </div>
 
             <h3 style={{ fontFamily: "'Exo 2'", fontWeight: 600, fontSize: '1rem', marginBottom: '0.75rem' }}>
-              Android Project 2.0 — Technical Refactoring
+              Android Development — Technical Refactoring
             </h3>
             <p style={{ color: 'var(--muted-foreground)', fontSize: '0.9rem', lineHeight: 1.7, marginBottom: '1.25rem' }}>
-              Led the elimination of accumulated technical debt in a production Android application,
+              As an external student, led the elimination of accumulated technical debt in a production Android application,
               migrating legacy code to modern Kotlin patterns and Jetpack Compose. Reduced codebase
               complexity by restructuring the architecture to MVVM, enabling maintainability for the
               ongoing research pipeline.
@@ -148,7 +148,8 @@ export default function Experience() {
                     borderRadius: 4,
                   }}
                 >
-                  Certified
+                  Certified with "2ª edição da Formação de
+Desenvolvimento Android em Kotlin" by X-Lab
                 </span>
               </div>
 
@@ -172,7 +173,7 @@ export default function Experience() {
                   marginBottom: '0.75rem',
                 }}
               >
-                Media XLab
+                A-MOVER, X-Lab
               </div>
               <p style={{ color: 'var(--muted-foreground)', fontSize: '0.88rem', lineHeight: 1.6 }}>
                 Validated expertise in Kotlin for Android platform development — covering coroutines,
@@ -211,10 +212,10 @@ export default function Experience() {
                 </div>
                 <div>
                   <div style={{ fontFamily: "'Exo 2'", fontWeight: 700, fontSize: '1rem', marginBottom: '0.25rem' }}>
-                    BSc Computer Engineering
+                    Computer Engineering Student 
                   </div>
                   <div style={{ fontFamily: "'JetBrains Mono'", fontSize: '0.7rem', color: '#6366f1', letterSpacing: '0.08em', marginBottom: '0.6rem' }}>
-                    Instituto Politécnico — Final Year
+                    Universidade Trás-os-Montes Alto Douro — Final Year
                   </div>
                   <p style={{ color: 'var(--muted-foreground)', fontSize: '0.85rem', lineHeight: 1.6 }}>
                     Focus on Mobile Systems, Computer Graphics, and Machine Learning pipelines.

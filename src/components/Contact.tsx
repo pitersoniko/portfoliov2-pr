@@ -139,7 +139,7 @@ export default function Contact() {
                   letterSpacing: "0.08em",
                 }}
               >
-                Computer Engineering · INESC TEC · Porto
+                Computer Engineering · Former INESC TEC External Student · Porto
               </div>
             </div>
 
